@@ -34,11 +34,5 @@ public class Main {
             System.out.println("and he will get a total salary of "+hoursPay*wages.get(i));
             System.out.print("Which amounts to "+hoursPay*wages.get(i)*4/5+" with taxes");
         }
-
-
-
-
-
     }
-
 }
